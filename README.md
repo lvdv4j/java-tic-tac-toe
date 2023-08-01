@@ -1,4 +1,4 @@
-# python-tic-tac-toe
+# python-tic-tac-toe Development
 ### This is Homework Exercise 1 and 2 for CMPG 323
 
 # Homework Exercise 1:
